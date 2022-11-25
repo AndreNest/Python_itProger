@@ -89,12 +89,13 @@
 #     element *= 2
 #     print(element)
 
-lens = int(input('Enter lens: '))
-i = 0
-arr = []
-while i < lens:
-    string = 'Enter ele,ent #' + str(i + 1) +  ':'
-    arr.append(input(string))
-    i += 1
+# lens = int(input('Enter lens: '))
+# i = 0
+# arr = []
+# while i < lens:
+#     string = 'Enter ele,ent #' + str(i + 1) +  ':'
+#     arr.append(input(string))
+#     i += 1
+#
+# print(arr)
 
-print(arr)
